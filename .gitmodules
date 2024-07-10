@@ -1,0 +1,3 @@
+[submodule "deps/GLViewer"]
+	path = deps/GLViewer
+	url = https://github.com/maxomous/GLViewer.git
